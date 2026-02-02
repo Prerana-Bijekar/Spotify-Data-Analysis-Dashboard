@@ -123,3 +123,7 @@
 -	DAX (Data Analysis Expressions)
 -	Figma (UI background design)
 -	Data Modeling & Transformation
+
+⚙️ **Technical Documentation:**
+- Detailed technical information is available
+- https://github.com/Prerana-Bijekar/Spotify-Data-Analysis-Dashboard/blob/main/Documentation/Technical_Details.md
